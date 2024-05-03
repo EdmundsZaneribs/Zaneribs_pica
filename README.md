@@ -1,10 +1,8 @@
-# Zaneribs_pica
-Java picērijas programma, kas nodrošina lietotājam izveidot picu, kas tiek versionēts ar Git versiju kontroles sistēmu.
-
-![Picērija](https://i.etsystatic.com/23444619/r/il/a400e6/3006317757/il_fullxfull.3006317757_3yhi.jpg)
-
+# Picērijas programma
 ### **Programmas apraksts**
 Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēles picu, kas tiek versionēts ar Git versiju kontroles sistēmu.
+
+![Picērija](https://i.etsystatic.com/23444619/r/il/a400e6/3006317757/il_fullxfull.3006317757_3yhi.jpg)
 
 ### **Darāmo darbu saraksts**
 - [x] Uzsākts lokālais Java projekts
