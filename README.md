@@ -13,4 +13,4 @@ Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēl
 - [x] Projektam pievienots jauns zars (branch)
 - [x] Sapludināti zari un novērsts nepilnību (issue) pieteikums
 
-![Pica](https://imageproxy.wolt.com/venue/65eb149f537c3d7cb527b680/be9085b0-e536-11ee-9ae3-5a89f15116bc_9av_90.jpg)
+![Pica](![Uploading sakums.png…]())
