@@ -13,4 +13,6 @@ Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēl
 - [x] Projektam pievienots jauns zars (branch)
 - [x] Sapludināti zari un novērsts nepilnību (issue) pieteikums
 
-![Pica](!www.canva.com.png)
+![sakums](https://github.com/EdmundsZaneribs/Zaneribs_pica/assets/165994174/698425b7-2d14-45ef-8044-3a006f383fe6)
+
+
