@@ -2,7 +2,7 @@
 ### **Programmas apraksts**
 Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēles picu, kas tiek versionēts ar Git versiju kontroles sistēmu.
 
-![Picērija](https://i.etsystatic.com/23444619/r/il/a400e6/3006317757/il_fullxfull.3006317757_3yhi.jpg)
+![sakums](https://github.com/EdmundsZaneribs/Zaneribs_pica/assets/165994174/698425b7-2d14-45ef-8044-3a006f383fe6)
 
 ### **Darāmo darbu saraksts**
 - [x] Uzsākts lokālais Java projekts
@@ -13,6 +13,5 @@ Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēl
 - [x] Projektam pievienots jauns zars (branch)
 - [x] Sapludināti zari un novērsts nepilnību (issue) pieteikums
 
-![sakums](https://github.com/EdmundsZaneribs/Zaneribs_pica/assets/165994174/698425b7-2d14-45ef-8044-3a006f383fe6)
 
 
