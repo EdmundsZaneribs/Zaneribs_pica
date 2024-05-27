@@ -1,6 +1,6 @@
-# Picērijas programma
-### **Programmas apraksts**:pizza::pizza::pizza:
-Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēles picu, kas tiek versionēts ar Git versiju kontroles sistēmu.
+# Picērijas programma:boom:
+### **Programmas apraksts**
+Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēles picu, kas tiek versionēts ar Git versiju kontroles sistēmu.:pizza::pizza::pizza:
 
 ![sakums](https://github.com/EdmundsZaneribs/Zaneribs_pica/assets/165994174/698425b7-2d14-45ef-8044-3a006f383fe6)
 
