@@ -1,4 +1,4 @@
-# Picērijas programma:
+# Picērijas programma
 ### **Programmas apraksts**:pizza::pizza::pizza:
 Java picērijas programma, kas nodrošina lietotājam izveidot pēc savas izvēles picu, kas tiek versionēts ar Git versiju kontroles sistēmu.
 
